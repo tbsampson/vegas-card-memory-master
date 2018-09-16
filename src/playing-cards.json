@@ -1,0 +1,418 @@
+[
+  {
+    "id": 1,
+    "src": "/images/cards/C2.png",
+    "suit": "Clubs",
+    "rank": "Two",
+    "value": 2,
+    "count": 0
+  },
+  {
+    "id": 2,
+    "src": "/images/cards/C3.png",
+    "suit": "Clubs",
+    "rank": "Three",
+    "value": 3,
+    "count": 0
+  },
+  {
+    "id": 3,
+    "src": "/images/cards/C4.png",
+    "suit": "Clubs",
+    "rank": "Four",
+    "value": 4,
+    "count": 0
+  },
+  {
+    "id": 4,
+    "src": "/images/cards/C5.png",
+    "suit": "Clubs",
+    "rank": "Five",
+    "value": 5,
+    "count": 0
+  },
+  {
+    "id": 5,
+    "src": "/images/cards/C6.png",
+    "suit": "Clubs",
+    "rank": "Six",
+    "value": 6,
+    "count": 0
+  },
+  {
+    "id": 6,
+    "src": "/images/cards/C7.png",
+    "suit": "Clubs",
+    "rank": "Seven",
+    "value": 7,
+    "count": 0
+  },
+  {
+    "id": 7,
+    "src": "/images/cards/C8.png",
+    "suit": "Clubs",
+    "rank": "Eight",
+    "value": 8,
+    "count": 0
+  },
+  {
+    "id": 8,
+    "src": "/images/cards/C9.png",
+    "suit": "Clubs",
+    "rank": "Nine",
+    "value": 9,
+    "count": 0
+  },
+  {
+    "id": 9,
+    "src": "/images/cards/C10.png",
+    "suit": "Clubs",
+    "rank": "Ten",
+    "value": 10,
+    "count": 0
+  },
+  {
+    "id": 10,
+    "src": "/images/cards/CJ.png",
+    "suit": "Clubs",
+    "rank": "Jack",
+    "value": 10,
+    "count": 0
+  },
+  {
+    "id": 11,
+    "src": "/images/cards/CQ.png",
+    "suit": "Clubs",
+    "rank": "Queen",
+    "value": 10,
+    "count": 0
+  },
+  {
+    "id": 12,
+    "src": "/images/cards/CK.png",
+    "suit": "Clubs",
+    "rank": "King",
+    "value": 10,
+    "count": 0
+  },
+  {
+    "id": 13,
+    "src": "/images/cards/CA.png",
+    "suit": "Clubs",
+    "rank": "Ace",
+    "value": 11,
+    "count": 0
+  },
+  {
+    "id": 14,
+    "src": "/images/cards/D2.png",
+    "suit": "Diamonds",
+    "rank": "Two",
+    "value": 2,
+    "count": 0
+  },
+  {
+    "id": 15,
+    "src": "/images/cards/D3.png",
+    "suit": "Diamonds",
+    "rank": "Three",
+    "value": 3,
+    "count": 0
+  },
+  {
+    "id": 16,
+    "src": "/images/cards/D4.png",
+    "suit": "Diamonds",
+    "rank": "Four",
+    "value": 4,
+    "count": 0
+  },
+  {
+    "id": 17,
+    "src": "/images/cards/D5.png",
+    "suit": "Diamonds",
+    "rank": "Five",
+    "value": 5,
+    "count": 0
+  },
+  {
+    "id": 18,
+    "src": "/images/cards/D6.png",
+    "suit": "Diamonds",
+    "rank": "Six",
+    "value": 6,
+    "count": 0
+  },
+  {
+    "id": 19,
+    "src": "/images/cards/D7.png",
+    "suit": "Diamonds",
+    "rank": "Seven",
+    "value": 7,
+    "count": 0
+  },
+  {
+    "id": 20,
+    "src": "/images/cards/D8.png",
+    "suit": "Diamonds",
+    "rank": "Eight",
+    "value": 8,
+    "count": 0
+  },
+  {
+    "id": 21,
+    "src": "/images/cards/D9.png",
+    "suit": "Diamonds",
+    "rank": "Nine",
+    "value": 9,
+    "count": 0
+  },
+  {
+    "id": 22,
+    "src": "/images/cards/D10.png",
+    "suit": "Diamonds",
+    "rank": "Ten",
+    "value": 10,
+    "count": 0
+  },
+  {
+    "id": 23,
+    "src": "/images/cards/DJ.png",
+    "suit": "Diamonds",
+    "rank": "Jack",
+    "value": 10,
+    "count": 0
+  },
+  {
+    "id": 24,
+    "src": "/images/cards/DQ.png",
+    "suit": "Diamonds",
+    "rank": "Queen",
+    "value": 10,
+    "count": 0
+  },
+  {
+    "id": 25,
+    "src": "/images/cards/DK.png",
+    "suit": "Diamonds",
+    "rank": "King",
+    "value": 10,
+    "count": 0
+  },
+  {
+    "id": 26,
+    "src": "/images/cards/DA.png",
+    "suit": "Diamonds",
+    "rank": "Ace",
+    "value": 11,
+    "count": 0
+  },
+  {
+    "id": 27,
+    "src": "/images/cards/H2.png",
+    "suit": "Hearts",
+    "rank": "Two",
+    "value": 2,
+    "count": 0
+  },
+  {
+    "id": 28,
+    "src": "/images/cards/H3.png",
+    "suit": "Hearts",
+    "rank": "Three",
+    "value": 3,
+    "count": 0
+  },
+  {
+    "id": 29,
+    "src": "/images/cards/H4.png",
+    "suit": "Hearts",
+    "rank": "Four",
+    "value": 4,
+    "count": 0
+  },
+  {
+    "id": 30,
+    "src": "/images/cards/H5.png",
+    "suit": "Hearts",
+    "rank": "Five",
+    "value": 5,
+    "count": 0
+  },
+  {
+    "id": 31,
+    "src": "/images/cards/H6.png",
+    "suit": "Hearts",
+    "rank": "Six",
+    "value": 6,
+    "count": 0
+  },
+  {
+    "id": 32,
+    "src": "/images/cards/H7.png",
+    "suit": "Hearts",
+    "rank": "Seven",
+    "value": 7,
+    "count": 0
+  },
+  {
+    "id": 33,
+    "src": "/images/cards/H8.png",
+    "suit": "Hearts",
+    "rank": "Eight",
+    "value": 8,
+    "count": 0
+  },
+  {
+    "id": 34,
+    "src": "/images/cards/H9.png",
+    "suit": "Hearts",
+    "rank": "Nine",
+    "value": 9,
+    "count": 0
+  },
+  {
+    "id": 35,
+    "src": "/images/cards/H10.png",
+    "suit": "Hearts",
+    "rank": "Ten",
+    "value": 10,
+    "count": 0
+  },
+  {
+    "id": 36,
+    "src": "/images/cards/HJ.png",
+    "suit": "Hearts",
+    "rank": "Jack",
+    "value": 10,
+    "count": 0
+  },
+  {
+    "id": 37,
+    "src": "/images/cards/HQ.png",
+    "suit": "Hearts",
+    "rank": "Queen",
+    "value": 10,
+    "count": 0
+  },
+  {
+    "id": 38,
+    "src": "/images/cards/HK.png",
+    "suit": "Hearts",
+    "rank": "King",
+    "value": 10,
+    "count": 0
+  },
+  {
+    "id": 39,
+    "src": "/images/cards/HA.png",
+    "suit": "Hearts",
+    "rank": "Ace",
+    "value": 11,
+    "count": 0
+  },
+  {
+    "id": 40,
+    "src": "/images/cards/S2.png",
+    "suit": "Spades",
+    "rank": "Two",
+    "value": 2,
+    "count": 0
+  },
+  {
+    "id": 41,
+    "src": "/images/cards/S3.png",
+    "suit": "Spades",
+    "rank": "Three",
+    "value": 3,
+    "count": 0
+  },
+  {
+    "id": 42,
+    "src": "/images/cards/S4.png",
+    "suit": "Spades",
+    "rank": "Four",
+    "value": 4,
+    "count": 0
+  },
+  {
+    "id": 43,
+    "src": "/images/cards/S5.png",
+    "suit": "Spades",
+    "rank": "Five",
+    "value": 5,
+    "count": 0
+  },
+  {
+    "id": 44,
+    "src": "/images/cards/S6.png",
+    "suit": "Spades",
+    "rank": "Six",
+    "value": 6,
+    "count": 0
+  },
+  {
+    "id": 45,
+    "src": "/images/cards/S7.png",
+    "suit": "Spades",
+    "rank": "Seven",
+    "value": 7,
+    "count": 0
+  },
+  {
+    "id": 46,
+    "src": "/images/cards/S8.png",
+    "suit": "Spades",
+    "rank": "Eight",
+    "value": 8,
+    "count": 0
+  },
+  {
+    "id": 47,
+    "src": "/images/cards/S9.png",
+    "suit": "Spades",
+    "rank": "Nine",
+    "value": 9,
+    "count": 0
+  },
+  {
+    "id": 48,
+    "src": "/images/cards/S10.png",
+    "suit": "Spades",
+    "rank": "Ten",
+    "value": 10,
+    "count": 0
+  },
+  {
+    "id": 49,
+    "src": "/images/cards/SJ.png",
+    "suit": "Spades",
+    "rank": "Jack",
+    "value": 10,
+    "count": 0
+  },
+  {
+    "id": 50,
+    "src": "/images/cards/SQ.png",
+    "suit": "Spades",
+    "rank": "Queen",
+    "value": 10,
+    "count": 0
+  },
+  {
+    "id": 51,
+    "src": "/images/cards/SK.png",
+    "suit": "Spades",
+    "rank": "King",
+    "value": 10,
+    "count": 0
+  },
+  {
+    "id": 52,
+    "src": "/images/cards/SA.png",
+    "suit": "Spades",
+    "rank": "Ace",
+    "value": 11,
+    "count": 0
+  }
+ ]
